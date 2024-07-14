@@ -2,5 +2,6 @@ hr{
     border: 1px solid rgb(225, 1, 5);
 }
 h1{
-    border-color: aquamarine;
+    background-color: aquamarine;
+    color: brown;
 }
