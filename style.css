@@ -6,8 +6,8 @@ h1{
     color:yellow;
 }
 
-font-face {
-    font-family: 'ALR';
+font-face{
+    font-family: 'ALR', sans-serif;
     src: url('/pb-fonts/ALR.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
