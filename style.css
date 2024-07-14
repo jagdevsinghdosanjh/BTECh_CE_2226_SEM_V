@@ -5,10 +5,12 @@ h1{
     background-color:black;
     color:yellow;
 }
-
-font-face{
-    font-family: 'ALR', sans-serif;
-    src: url('/pb-fonts/ALR.ttf') format('ttf');
-    font-weight: normal;
-    font-style: normal;
+<style type="text/css">
+@font-face {
+    font-family: ALR;
+    src: url(ALR.ttf);
 }
+pb{
+    font-family: ALR;
+}
+</style>
