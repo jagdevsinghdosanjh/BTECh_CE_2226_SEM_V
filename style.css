@@ -5,12 +5,3 @@ h1{
     background-color:black;
     color:yellow;
 }
-<style type="text/css">
-@font-face {
-    font-family: ALR;
-    src: url(ALR.ttf);
-}
-pb{
-    font-family: ALR;
-}
-</style>
